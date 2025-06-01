@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Przelacz program
+Exec=sh -c "kitty -- bash -c  '/home/jan/minetest/przelacz.sh; exec bash'"
+Terminal=false
+Type=Application

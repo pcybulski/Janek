@@ -1,0 +1,6 @@
+parrot, giraffe, elephant, frog, monkey, mouse, crocodile, tiger, snake
+
+walk, jump, run, swim, fly, climb
+
+
+true and false

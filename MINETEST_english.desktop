@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Nauka angielskiego
+Exec=sh -c "tmux new -d 'sleep 7200 && mpg123 -q /home/jan/minetest/audio/koniec.mp3  && halt -p'; kitty -- bash -c 'cd /home/jan/english/ && python3.10 ./nauka_czytania.py; exec bash'"
+Terminal=false
+Type=Application

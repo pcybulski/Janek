@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Nauka Janka
+Exec=sh -c "tmux new -d 'sleep 7200 && mpg123 -q /home/jan/minetest/audio/koniec.mp3  && halt -p'; kitty -- bash -c 'cd /home/jan/minetest/ && python3.10 /home/jan/minetest/nauka_czytania.py; exec bash'"
+Terminal=false
+Type=Application
